@@ -1,0 +1,6 @@
+[package]
+name = "number_theory"
+version = "0.1.0"
+authors = ["Ivan <yifanb@gmail.com>"]
+
+[dependencies]
